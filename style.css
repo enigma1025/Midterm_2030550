@@ -1,4 +1,5 @@
 header {
+    font-family: 'Open Sans', sans-serif;
     text-align: center;
     color: #fff;
     background-color: #777;
@@ -13,6 +14,7 @@ img {
     flex-direction: column;
 } 
 .p11 {
+    font-family: 'Roboto', sans-serif;
     background-color: peru;
     padding: 20px;
     margin-bottom: 20px;
@@ -22,7 +24,8 @@ img {
     align-items: center;
 }
 .p12 {
-    background-color: goldenrod;
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(198, 121, 43);
     padding: 20px;
     margin-bottom: 20px;
     border-radius: 5px;
@@ -31,7 +34,8 @@ img {
     align-items: center;
 }
 .p13 {
-    background-color: blueviolet;
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(194, 106, 18);
     padding: 20px;
     margin-bottom: 20px;
     border-radius: 5px;
@@ -61,7 +65,8 @@ button:hover {
 
 
 .p21{
-    background-color: bisque;
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(174, 237, 216);
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     gap: 20px;
@@ -69,6 +74,7 @@ button:hover {
 }
 
 .p22{
+    font-family: 'Roboto', sans-serif;
     background-color: aquamarine;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
@@ -77,6 +83,7 @@ button:hover {
 }
 
 .p23{
+    font-family: 'Roboto', sans-serif;
     background-color: aqua;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
