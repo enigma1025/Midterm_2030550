@@ -91,7 +91,25 @@ button:hover {
     text-align: left;
 }
 
+.p31{
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(106, 121, 220);
+    display: grid;
+    border-radius: 5px;
+    grid-template-columns: 1fr 1fr; 
+    gap: 20px;
+    text-align: left;
+}
 
+.p32{
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(76, 132, 216);
+    display: grid;
+    border-radius: 5px;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    text-align: left;
+}
 
 
 
@@ -110,4 +128,10 @@ nav a {
 }
 nav a:hover {
     background-color: #777;
+}
+footer {
+    color: #1c054ee8;
+}
+.new{
+    width: ;
 }
